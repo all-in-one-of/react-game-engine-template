@@ -1,4 +1,4 @@
-[src/assets/models/fighter.hiplc](src/assets/models/fighter.hiplc)
+# [src/assets/models/fighter.hiplc](src/assets/models/fighter.hiplc)
 # React Game Engine Template
 
 This repo is designed to be a sort of game kickstarter. It contains some general systems and components that should be somewhat useful when developing a variety of games using [React Game Engine](https://github.com/bberak/react-game-engine).
